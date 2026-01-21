@@ -37,9 +37,6 @@ src/
 
 
 📸 Sample Console Output
-=================================
-       ADVANCED TODO MANAGER
-=================================
 ID  | PRIORITY | STATUS   | CREATED AT           | DESCRIPTION
 ----------------------------------------------------------------------
 1   | HIGH     | [ ]      | 2026-01-21 12:41     | Complete Java Final Project
